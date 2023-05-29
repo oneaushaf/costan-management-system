@@ -10,25 +10,25 @@ Vision : Costan management system for a better costing experience
         <th>Role</th>
     </tr>
     <tr>
-        <td>1<td>
+        <td>1</td>
         <td>Wan Muhammad Fikri Aushaf</td>
         <td>G6401201007</td>
         <td>Full Stack Developer</td>
     </tr>
     <tr>
-        <td>2<td>
+        <td>2</td>
         <td>Helga Meilina Putri Fortuna</td>
         <td>G6401201017</td>
         <td>UI and Front End Developer</td>
     </tr>
     <tr>
-        <td>3<td>
+        <td>3</td>
         <td>Daffa Fikri</td>
         <td>G6401201086</td>
         <td>Project Manager and Front End Developer</td>
     </tr>
     <tr>
-        <td>4<td>
+        <td>4</td>
         <td>Azriel Izwanie A</td>
         <td>G6401201106</td>
         <td>UI and Front End Developer</td>
